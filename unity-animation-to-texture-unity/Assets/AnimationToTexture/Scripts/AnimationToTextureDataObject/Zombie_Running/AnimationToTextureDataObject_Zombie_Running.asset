@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fd09977e73a749a1bdfe9da120eb817, type: 3}
+  m_Name: AnimationToTextureDataObject_Zombie_Running
+  m_EditorClassIdentifier: 
+  meshName: Zombie_Running
+  mesh: {fileID: -5635949633440526746, guid: 9dd8e79b916f842fea28674f93f94463, type: 3}
+  vertexCount: 498
+  animationClipDatas:
+  - clipName: zombie_running
+    positionTexture: {fileID: 2800000, guid: 452abd191dfa643f1a0863615ac5ce42, type: 2}
+    normalTexture: {fileID: 2800000, guid: f89486efd6f9c49a8b0c55fc7ceabd55, type: 2}
+    frameCount: 25
+    frameRate: 30
+    isLooping: 1
+  - clipName: FlyingBackDeath
+    positionTexture: {fileID: 2800000, guid: 02ae1b66de0f643d094c23ae8bc650db, type: 2}
+    normalTexture: {fileID: 2800000, guid: 42f185bc3667e4306a12839a85462a5c, type: 2}
+    frameCount: 21
+    frameRate: 30
+    isLooping: 0
+  materialOverride: {fileID: 0}
+  positionTexture0PropertyName: _AnimTexPos0
+  normalTexture0PropertyName: _AnimTexNorm0
+  positionTexture1PropertyName: _AnimTexPos1
+  normalTexture1PropertyName: _AnimTexNorm1
+  positionTexture2PropertyName: _AnimTexPos2
+  normalTexture2PropertyName: _AnimTexNorm2
+  positionTexture3PropertyName: _AnimTexPos3
+  normalTexture3PropertyName: _AnimTexNorm3
+  texelSizePropertyName: _TexelSize
+  animationParamsPropertyName: _AnimParams

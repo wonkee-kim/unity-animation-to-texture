@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_1
+  m_EditorClassIdentifier: 
+  version: 1
+  sku:
+  packageName: Animation-To-Texture Demo
+  thumbnail: {fileID: 2800000, guid: ec92664e9ad2b4c9283b473b2786c59c, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID:
+  scene: {fileID: 102900000, guid: 2c3802a2943734f9e9ca572cf3b2256d, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 3cbf0462e2f634f8cbaae34d2b875f91,
+    type: 3}
+  embeddedPackageAssets: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 4
