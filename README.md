@@ -23,6 +23,9 @@ Texture width is vertex count, and height is frame count of the animation clips.
 
 
 ## How to use
+https://github.com/wonkee-kim/unity-animation-to-texture/assets/830808/fcfc7c4d-0bbb-4634-9e48-6fff803ad6a5
+
+
 1. SkinnedMesh model, that has Animator and AnimatorController with animation clips.  
 <img src="https://github.com/wonkee-kim/unity-animation-to-texture/assets/830808/46720a4e-213d-4a50-bc73-faa4ee3af308" height="160">  
 
